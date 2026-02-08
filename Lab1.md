@@ -62,23 +62,23 @@
 
 ## Підготовка до лабораторної
 
-### Словник термінів
+### Glosssary of Basic English Terms (Virtual Environments)
 
-**Віртуальна машина** — програмна імітація комп’ютера для запуску ОС і програм.
+**Virtual Machine** — a software-based emulation of a physical computer that runs an operating system and applications.
 
-**Віртуалізація** — технологія запуску кількох ОС на одному фізичному пристрої.
+**Virtualization** — a technology that allows multiple operating systems to run on a single physical machine.
 
-**Гіпервізор** — програма для створення і керування віртуальними машинами.
+**Hypervisor** — software or firmware that creates and manages virtual machines.
 
-**Гіпервізор типу 1** — працює безпосередньо з апаратним забезпеченням.
+**Type 1 Hypervisor** — a hypervisor that runs directly on the physical hardware without a host operating system.
 
-**Гіпервізор типу 2** — працює поверх основної ОС.
+**Type 2 Hypervisor** — a hypervisor that runs on top of a host operating system.
 
-**Хост-ОС** — головна операційна система комп’ютера.
+**Host Operating System** — the main operating system installed on the physical machine.
 
-**Гостьова ОС** — система, що працює у ВМ.
+**Guest Operating System** — an operating system installed and running inside a virtual machine.
 
-**Ядро** — центральна частина ОС, що керує ресурсами.
+**Kernel** — the core component of an operating system that manages hardware resources.
 
 ---
 
