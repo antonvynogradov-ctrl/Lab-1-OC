@@ -205,3 +205,13 @@ CLI — це режим керування через введення кома�
 GUI — це режим із графічним інтерфейсом, вікнами та меню.
 
 CLI забезпечує більшу гнучкість і точність керування, тоді як GUI є більш зручним для повсякденного використання.
+
+---
+
+## Conclusion
+
+During this laboratory work, I explored the fundamental principles of virtualization and the concept of virtual machines. I examined what a hypervisor is, identified the differences between Type 1 and Type 2 hypervisors, and understood where each type is typically used. Particular focus was placed on the VirtualBox hypervisor, including its structure and main functionalities.
+
+I also studied the Linux operating system, its architecture, and key characteristics, especially the role of the kernel and the use of various graphical environments. Furthermore, I reviewed the main steps involved in installing Linux both in text mode and within a virtual machine.
+
+Overall, this laboratory work helped me develop a solid understanding of virtualization technologies and modern operating systems, which will be valuable for my future studies in operating systems and system administration.
